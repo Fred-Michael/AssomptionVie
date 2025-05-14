@@ -1,0 +1,16 @@
+C:\Users\china\source\repos\Assessment\InsuranceQuoteUI\InsuranceQuoteUI\bin\Debug\net8.0-windows\InsuranceQuoteUI.exe
+C:\Users\china\source\repos\Assessment\InsuranceQuoteUI\InsuranceQuoteUI\bin\Debug\net8.0-windows\InsuranceQuoteUI.deps.json
+C:\Users\china\source\repos\Assessment\InsuranceQuoteUI\InsuranceQuoteUI\bin\Debug\net8.0-windows\InsuranceQuoteUI.runtimeconfig.json
+C:\Users\china\source\repos\Assessment\InsuranceQuoteUI\InsuranceQuoteUI\bin\Debug\net8.0-windows\InsuranceQuoteUI.dll
+C:\Users\china\source\repos\Assessment\InsuranceQuoteUI\InsuranceQuoteUI\bin\Debug\net8.0-windows\InsuranceQuoteUI.pdb
+C:\Users\china\source\repos\Assessment\InsuranceQuoteUI\InsuranceQuoteUI\obj\Debug\net8.0-windows\InsuranceQuoteUI.QuoteForm.resources
+C:\Users\china\source\repos\Assessment\InsuranceQuoteUI\InsuranceQuoteUI\obj\Debug\net8.0-windows\InsuranceQuoteUI.csproj.GenerateResource.cache
+C:\Users\china\source\repos\Assessment\InsuranceQuoteUI\InsuranceQuoteUI\obj\Debug\net8.0-windows\InsuranceQuoteUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\china\source\repos\Assessment\InsuranceQuoteUI\InsuranceQuoteUI\obj\Debug\net8.0-windows\InsuranceQuoteUI.AssemblyInfoInputs.cache
+C:\Users\china\source\repos\Assessment\InsuranceQuoteUI\InsuranceQuoteUI\obj\Debug\net8.0-windows\InsuranceQuoteUI.AssemblyInfo.cs
+C:\Users\china\source\repos\Assessment\InsuranceQuoteUI\InsuranceQuoteUI\obj\Debug\net8.0-windows\InsuranceQuoteUI.csproj.CoreCompileInputs.cache
+C:\Users\china\source\repos\Assessment\InsuranceQuoteUI\InsuranceQuoteUI\obj\Debug\net8.0-windows\InsuranceQuoteUI.dll
+C:\Users\china\source\repos\Assessment\InsuranceQuoteUI\InsuranceQuoteUI\obj\Debug\net8.0-windows\refint\InsuranceQuoteUI.dll
+C:\Users\china\source\repos\Assessment\InsuranceQuoteUI\InsuranceQuoteUI\obj\Debug\net8.0-windows\InsuranceQuoteUI.pdb
+C:\Users\china\source\repos\Assessment\InsuranceQuoteUI\InsuranceQuoteUI\obj\Debug\net8.0-windows\InsuranceQuoteUI.genruntimeconfig.cache
+C:\Users\china\source\repos\Assessment\InsuranceQuoteUI\InsuranceQuoteUI\obj\Debug\net8.0-windows\ref\InsuranceQuoteUI.dll

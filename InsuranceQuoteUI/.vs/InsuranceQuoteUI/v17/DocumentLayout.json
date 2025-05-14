@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\china\\source\\repos\\Assessment\\InsuranceQuoteUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81302ADD-1C12-4C31-9F89-D26B538C4A38}|InsuranceQuoteUI\\InsuranceQuoteUI.csproj|c:\\users\\china\\source\\repos\\assessment\\insurancequoteui\\insurancequoteui\\quoteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81302ADD-1C12-4C31-9F89-D26B538C4A38}|InsuranceQuoteUI\\InsuranceQuoteUI.csproj|solutionrelative:insurancequoteui\\quoteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81302ADD-1C12-4C31-9F89-D26B538C4A38}|InsuranceQuoteUI\\InsuranceQuoteUI.csproj|c:\\users\\china\\source\\repos\\assessment\\insurancequoteui\\insurancequoteui\\services\\insurancequoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81302ADD-1C12-4C31-9F89-D26B538C4A38}|InsuranceQuoteUI\\InsuranceQuoteUI.csproj|solutionrelative:insurancequoteui\\services\\insurancequoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81302ADD-1C12-4C31-9F89-D26B538C4A38}|InsuranceQuoteUI\\InsuranceQuoteUI.csproj|c:\\users\\china\\source\\repos\\assessment\\insurancequoteui\\insurancequoteui\\utilities\\backendconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81302ADD-1C12-4C31-9F89-D26B538C4A38}|InsuranceQuoteUI\\InsuranceQuoteUI.csproj|solutionrelative:insurancequoteui\\utilities\\backendconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81302ADD-1C12-4C31-9F89-D26B538C4A38}|InsuranceQuoteUI\\InsuranceQuoteUI.csproj|c:\\users\\china\\source\\repos\\assessment\\insurancequoteui\\insurancequoteui\\quoteform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81302ADD-1C12-4C31-9F89-D26B538C4A38}|InsuranceQuoteUI\\InsuranceQuoteUI.csproj|solutionrelative:insurancequoteui\\quoteform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuoteForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\china\\source\\repos\\Assessment\\InsuranceQuoteUI\\InsuranceQuoteUI\\QuoteForm.Designer.cs",
+              "RelativeDocumentMoniker": "InsuranceQuoteUI\\QuoteForm.Designer.cs",
+              "ToolTip": "C:\\Users\\china\\source\\repos\\Assessment\\InsuranceQuoteUI\\InsuranceQuoteUI\\QuoteForm.Designer.cs",
+              "RelativeToolTip": "InsuranceQuoteUI\\QuoteForm.Designer.cs",
+              "ViewState": "AgIAAO8AAAAAAAAAAAAewDsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T15:47:00.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BackendConnection.cs",
+              "DocumentMoniker": "C:\\Users\\china\\source\\repos\\Assessment\\InsuranceQuoteUI\\InsuranceQuoteUI\\Utilities\\BackendConnection.cs",
+              "RelativeDocumentMoniker": "InsuranceQuoteUI\\Utilities\\BackendConnection.cs",
+              "ToolTip": "C:\\Users\\china\\source\\repos\\Assessment\\InsuranceQuoteUI\\InsuranceQuoteUI\\Utilities\\BackendConnection.cs",
+              "RelativeToolTip": "InsuranceQuoteUI\\Utilities\\BackendConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T15:41:19.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuoteForm.cs",
+              "DocumentMoniker": "C:\\Users\\china\\source\\repos\\Assessment\\InsuranceQuoteUI\\InsuranceQuoteUI\\QuoteForm.cs",
+              "RelativeDocumentMoniker": "InsuranceQuoteUI\\QuoteForm.cs",
+              "ToolTip": "C:\\Users\\china\\source\\repos\\Assessment\\InsuranceQuoteUI\\InsuranceQuoteUI\\QuoteForm.cs",
+              "RelativeToolTip": "InsuranceQuoteUI\\QuoteForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T15:25:12.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InsuranceQuoteService.cs",
+              "DocumentMoniker": "C:\\Users\\china\\source\\repos\\Assessment\\InsuranceQuoteUI\\InsuranceQuoteUI\\Services\\InsuranceQuoteService.cs",
+              "RelativeDocumentMoniker": "InsuranceQuoteUI\\Services\\InsuranceQuoteService.cs",
+              "ToolTip": "C:\\Users\\china\\source\\repos\\Assessment\\InsuranceQuoteUI\\InsuranceQuoteUI\\Services\\InsuranceQuoteService.cs",
+              "RelativeToolTip": "InsuranceQuoteUI\\Services\\InsuranceQuoteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T15:18:19.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
